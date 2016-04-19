@@ -1,0 +1,33 @@
+body {
+	background-color: #50514F;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+#statusBar {
+	list-style-type: none;
+	color: white;
+}
+
+ul li {
+	display: inline;
+	padding-left: 50px;
+}
+
+#torchMode {
+	margin-left: 50px;
+}
+
+#message {
+	margin-left: 170px;
+}
+
+canvas {
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1000px;
+    border-radius: 2%;
+
+}
